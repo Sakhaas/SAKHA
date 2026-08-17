@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DimsGti/MineAMountain-DHUB/refs/heads/main/main.lua"))()
